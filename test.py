@@ -29,12 +29,6 @@ class Test(object):
 	    		graficar.plotMapear()
 	    		compresion = DouglasPeucker(data, path)
 	    		compresion.comprimir()
-	    		print("")
-	    		print("")
-	    		print("")
-	    		print("")
-	    		console.log("error")
-
 	    		
 	    """
 

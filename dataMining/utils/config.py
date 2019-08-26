@@ -1,0 +1,21 @@
+class Config:
+    host='localhost'
+    database='RutasGPS'
+    user='root'
+    password='AGEjaFUT'
+    path = "data/"
+    assets_path = "assets/"
+    pathMapsFull = "assets/full/mapas/"
+    pathPlotMapsFull = "assets/full/plots/"
+    pathMapsCompressed = "assets/compressed/mapas/"
+    pathPlotMapsCompressed = "assets/compressed/plots/"
+    pathPlotCompressed = "assets/compressed/estadisticas/"
+    pathDBSCANEstadis = "assets/clustering/DBSCAN/estadisticas/"
+    pathClusterDBSCANMapas = "assets/clustering/DBSCAN/mapas/"
+    pathClusterDBSCANPlots = "assets/clustering/DBSCAN/plots/"
+    pathFull = "data/full/"
+    pathCompressed = "data/compressed/"
+    pathFrequentPatterns = "data/frequentPatterns/"
+    TrajectoriesID = "data/full/TrajectoriesID.csv"
+    columns = ['id', 'deviceid', 'valid', 'latitude', 'longitude', 'devicetime', 'speed', 'attributes']
+    coordenadas = ['latitude', 'longitude']

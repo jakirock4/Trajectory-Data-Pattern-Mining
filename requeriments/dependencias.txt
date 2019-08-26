@@ -1,0 +1,19 @@
+pip3 install  mysql
+pip3 install  mysql-connector
+pip3 install  gmplot
+pip3 install geopy
+pip install geopy
+pip3 install sklearn
+pip install sklearn
+pip3 install  shapely
+pip install dipy
+pip3 install dipy
+pip3 install efficient_apriori
+pip install -U setuptools -- Por si instala apuori
+pip install apyori
+./setup_fim.py install
+
+PYTHON 3 install FIM
+conda install -c conda-forge pyfim 
+conda install -c conda-forge/label/gcc7 pyfim 
+conda install -c conda-forge/label/cf201901 pyfim 

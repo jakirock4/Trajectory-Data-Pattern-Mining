@@ -29,7 +29,12 @@ class Test(object):
 	    		graficar.plotMapear()
 	    		compresion = DouglasPeucker(data, path)
 	    		compresion.comprimir()
-	    		print("esta es una prueb con GIT")
+	    		print("")
+	    		print("")
+	    		print("")
+	    		print("")
+	    		console.log("error")
+
 	    		
 	    """
 
